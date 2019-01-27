@@ -2,3 +2,10 @@ Modules that have slight issues that may have a minor impact while playing in VR
 If a module has compatibility problems that can make it unplayable or extremely difficult to play, it should be upgraded to Major Problems instead.
 
 Bartending (Can select Slot 2 from the Bottled Drinks Menu)
+Blockbusters (Colliers overlapping to make pressing center buttons difficult)
+Boolean Venn-Diagram (Visual De-sync between eyes after sector has been pressed)
+Broken Guitar Chords/Guitar Chords (Difficult to press frets due to how precise you must be vs. shaky-ness of human hands vs. latency of VR)
+Button Sequences (Visual De-sync for Button lights and Yellow Buttons. Text on buttons is fine.)
+Chord Qualities (Visual De-sync for indicator light between eyes.)
+Color Morse (Visual De-sync for when the colors are flashing in the on state)
+Complicated Buttons (Visual De-sync for Buttons that are colored Purple, Red, or Blue. White is fine. Text is fine.)
