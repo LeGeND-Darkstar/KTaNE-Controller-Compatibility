@@ -1,7 +1,7 @@
-Modules that have major issues that can make gameplay extremely difficult or impossible.
-If a module has compatibility problems that are minor or don't affect gameplay, it should be downgraded to Minor Problems instead.
+Mods that have major issues that can make gameplay extremely difficult or impossible.
+If a mod has compatibility problems that are minor or don't affect gameplay, it should be downgraded to Minor Problems instead.
 
-Minesweeper (Unable to press squares due to plane colliders)
-The Resonable Conclusion (Cases has no collision mesh)
-Only Connect (Second stage buttons are unable to be selected by motion controls)
 Creation (Second stage buttons are unable to be selected by motion controls)
+Minesweeper (Unable to press squares due to plane colliders)
+Only Connect (Second stage buttons are unable to be selected by motion controls)
+The Resonable Conclusion (Cases has no collision mesh)
