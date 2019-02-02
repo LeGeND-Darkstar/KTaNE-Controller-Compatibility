@@ -1,7 +1,17 @@
 Mods that have major issues that can make gameplay extremely difficult or impossible.
 If a mod has compatibility problems that are minor or don't affect gameplay, it should be downgraded to Minor Problems instead.
 
-Creation (Second stage buttons are unable to be selected by motion controls)
+
+UpdateChildren() seems to possible cause to unplayability for modules that become unsolvable.
+
 Minesweeper (Unable to press squares due to plane colliders)
+The Reasonable Conclusion (Cases has no collision mesh)
 Only Connect (Second stage buttons are unable to be selected by motion controls)
-The Resonable Conclusion (Cases has no collision mesh)
+Creation (Second stage buttons are unable to be selected by motion controls)
+Plumbing (Pipes Disappearing after being pressed with motion controls (See Plumbing.mp4))
+Double Decker Bomb Case (Collider allows for clipping into table surfaces. May Not have Case Collider at all)
+Hogwarts (Unable to submit a final house winner after solving the required modules due to not being able to select final house buttons after the screen switches)
+Jack-o-Lantern (Unable to press buttons with motion controls. from beginning of module. Unknown Cause)
+Jewel Vault (Light Flickers extremely fast when held at certain angles, Unable to select wheels with motion controls)
+The Moon/The Sun (Unable to select buttons except center button)
+Retirement (Unable to press arrow buttons to cycle housing options)
