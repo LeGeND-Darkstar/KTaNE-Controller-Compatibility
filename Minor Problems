@@ -2,7 +2,7 @@ Mods that have slight issues that may have a minor impact while playing in VR.
 If a mod has compatibility problems that can make it unplayable or extremely difficult to play, it should be upgraded to Major Problems instead.
 
 Bartending (Can select Slot 2 from the Bottled Drinks Menu)
-Blockbusters (Colliers overlapping to make pressing center buttons difficult)
+Blockbusters (Colliders overlapping to make pressing center buttons difficult)
 Boolean Venn-Diagram (Visual De-sync between eyes after sector has been pressed)
 Broken Guitar Chords/Guitar Chords (Difficult to press frets due to how precise you must be vs. shaky-ness of human hands vs. latency of VR)
 Button Sequences (Visual De-sync for Button lights and Yellow Buttons. Text on buttons is fine.)
@@ -20,6 +20,6 @@ Melody Sequencer (Difficult to press keys due to how precise you must be vs. sha
 Nonogram (Visual De-sync for color indicators only)
 Periodic Table (Difficult to press elements due to how precise you must be vs. shaky-ness of human hands vs. latency of VR)
 Poetry (Visual De-sync with graphic of girl)
-Rhythms (Visual De-sync for Unlit Rythm light)
+Rhythms (Visual De-sync for Unlit Rhythm light)
 Rot Decoding (Difficult to press letters due to how precise you must be vs. shaky-ness of human hands vs. latency of VR)
 Simon Speaks (Visual De-sync for Text only)
