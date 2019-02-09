@@ -15,3 +15,13 @@ Jack-o-Lantern (Unable to press buttons with motion controls. from beginning of 
 Jewel Vault (Light Flickers extremely fast when held at certain angles, Unable to select wheels with motion controls)
 The Moon/The Sun (Unable to select buttons except center button)
 Retirement (Unable to press arrow buttons to cycle housing options)
+Wire Spaghetti (Unable to select any wires to be cut. Possibly too thin of colliders?)
+X01 (Unable to select spaces on the dart board)
+Souvenir (Answers are unselectable when questions are shown)
+Elder Futhark (Cannot begin module do to the runes not showing till the module is selected. Motion controls in VR cannot complete this action)
+
+
+All Needies Below are the only needies that have Major issues. If it is not listed here or in Minor Problems, It can be safely assumed that it has worked in testing.
+
+Needies:
+QR Code (Nothing wrong with functionality, Just impossible to scan the code with a phone in VR)
