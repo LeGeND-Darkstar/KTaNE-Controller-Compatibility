@@ -1,6 +1,8 @@
 Mods that have slight issues that may have a minor impact while playing in VR.
 If a mod has compatibility problems that can make it unplayable or extremely difficult to play, it should be upgraded to Major Problems instead.
 
+"De-sync" refers to the object(s) in question being positioned further right than they should be in the right eye vs the correct position in the left eye.
+
 Bartending (Can select Slot 2 from the Bottled Drinks Menu)
 Blockbusters (Colliders overlapping to make pressing center buttons difficult)
 Boolean Venn-Diagram (Visual De-sync between eyes after sector has been pressed)
