@@ -1,0 +1,342 @@
+Compatible:
+3D Maze
+3D Tunnels
+101 Dalmatians
+Accumulation (can only move left and right to navigate the buttons)
+Adjacent Letters
+Adventure Game
+Alchemy (can only move left and right to navigate the buttons)
+Algebra (can only move left and right to navigate the buttons)
+Alphabet
+Alphabet Numbers (can only move left and right to navigate the buttons)
+Anagrams
+Astrology
+Backgrounds (can only move left and right instead of up and down)
+Bartending (difficult to navigate due to how the buttons are positioned)
+Bases (can only move up and down to navigate the buttons)
+Battleship
+Benedict Cumberbatch (buttons are ordered incorrectly and can only move left and right to navigate the buttons)
+Big Circle
+Binary LEDs (can only move left and right to navigate the wires)
+Binary Puzzle
+Binary Tree
+Bitmaps
+Bitwise Operations (the last 4 buttons are ordered backwards)
+Black Hole
+Blackjack (can highlight buttons that shouldn't be pressed yet and can only move left and right)
+Blind Alley
+Blind Maze
+Blockbusters (can only move left and right to navigate the buttons)
+Boggle (can only move left and right to navigate the buttons)
+Boolean Maze
+Boolean Venn Diagrams (can only move up and down to navigate the buttons)
+Braille
+British Slang (can only move left and right to navigate the buttons)
+Broken Buttons
+Broken Guitar Chords
+The Bulb
+Burger Alarm (can only move left and right to navigate the buttons)
+Burglar Alarm
+Button Sequences (can only move up and down to navigate the buttons)
+Caesar Cipher
+Calendar (can only move left and right to navigate the buttons)
+Catchphrase (can only move left and right to navigate the buttons and the screens)
+Character Shift (can only move left and right to navigate the buttons)
+Cheap Checkout
+Chess
+Chord Qualities
+Christmas Presents
+The Clock
+The Code
+Coffeebucks (can press buttons that shouldn't be selected yet and can only move left and right)
+Color Decoding (can only move left and right to navigate the buttons)
+Color Flash
+Color Generator (buttons are ordered incorrectly which makes navigation difficult)
+Color Math
+Color Morse
+Colored Squares
+Colored Switches
+Colorful Insanity
+Colorful Madness
+Combination Lock
+Complex Keypad (can only move left and right to navigate the buttons)
+Complicated Buttons
+Connection Check
+Connection Device (can press buttons that shouldn't be selected yet and can only move up and down)
+Cookie Jars (buttons are ordered incorrectly)
+Cooking (buttons are ordered incorrectly)
+Coordinates
+Countdown (can only move left and right to navigate the buttons)
+Crackbox (can only move up and down to navigate the buttons)
+Crazy Talk
+Creation
+Cruel Countdown (can only move left and right to navigate the buttons)
+Cruel Piano Keys
+Cryptography
+The Cube (can only move left and right to navigate the buttons)
+Curriculum (buttons are ordered incorrectly which makes navigation difficult)
+Cursed Double-Oh
+Decolored Squares
+DetoNATO
+The Digit
+Digital Cipher (can only move left and right to navigate the buttons)
+Digital Root
+Discolored Squares
+Divided Squares (can press buttons that shouldn't be pressed yet)
+Dominoes
+Double Color
+Double-Oh
+Dr. Doctor (buttons are ordered incorrectly which makes navigation difficult)
+Dragon Energy (can only move up and down to navigate the buttons)
+Elder Futhark (buttons are ordered incorrectly and can only move left and right)
+Emoji Math
+Encrypted Morse (can only move left and right to navigate the buttons)
+English Test
+Equations (can only move left and right to navigate the buttons)
+European Travel (can only move left and right to navigate the buttons)
+Extended Password
+Factory Maze (can only move left and right to navigate the buttons)
+Fast Math
+Faulty Backgrounds (can only move left and right to navigate the buttons)
+The Festive Jukebox
+Festive Piano Keys
+FizzBuzz
+Flags
+Flashing Lights (can only move left and right to navigate the buttons)
+Flavor Text
+Flavor Text EX
+Follow the Leader
+Font Select (buttons are ordered incorrectly)
+Foreign Exchange Rates
+Forget Everything
+Forget Me Not
+Forget This
+Free Parking (can press buttons that shouldn't be selected yet and can only move left and right)
+Friendship
+Functions
+Gadgetron Vendor
+Game of Life Cruel (navigation to the 3 side buttons is difficult and you can't move up or down when selecting one of them)
+Game of Life Simple (navigation to the 3 side buttons is difficult and you can't move up or down when selecting one of them)
+The Gamepad
+Genetic Sequence (can only move left and right to navigate the buttons)
+Graffiti Numbers (can only move left and right to navigate the numbers)
+Graphic Memory (can only move left and right to navigate the buttons)
+Greek Calculus
+Grid Matching (can only move left and right to navigate the buttons)
+Gridlock
+Grocery Store
+Guitar Chords (can only move left and right to navigate the buttons which makes reaching the play button annoying)
+The Hangover (can only move left and right to navigate the buttons)
+Harmony Sequence (can only move left and right to navigate the buttons)
+The Hexabutton
+Hexamaze
+Hieroglyphics (can only move left and right to navigate the buttons)
+Hogwarts (can press buttons that shouldn't be selected yet, but the buttons don't work until the module is ready for them)
+Homophones (can only move left and right to navigate the buttons)
+Horrible Memory
+Human Resources (buttons are ordered incorrectly)
+Hunting
+Ice Cream
+Identity Parade (can only move left and right to navigate the buttons)
+IKEA
+Instructions
+The iPhone (can press buttons that shouldn't be selected yet, buttons are ordered incorrectly and can only move left and right)
+The Jack-O'-Lantern
+The Jewel Vault
+The Jukebox (can only move left and right to navigate the buttons)
+Know Your Way (buttons are ordered incorrectly)
+Krazy Talk
+Kudosudoku (can highlight buttons that shouldn't be selected yet)
+The Labyrinth (can only move left and right to navigate the buttons)
+Lasers
+Laundry
+LED Encryption
+LED Grid (can only move left and right to navigate the buttons)
+LED Math
+Left and Right
+Letter Keys
+Light Cycle
+Lightspeed (can press buttons that shouldn't be selected yet and can only move left and right to navigate the buttons)
+Lion's Share (can highlight buttons that shouldn't be selected)
+Listening (must move down instead of up to reach the play button)
+Logic
+Logic Gates (can only move up and down instead of left and right to navigate the buttons)
+Logical Buttons (must move down instead of up to reach the top button and operator)
+Lombax Cubes
+The London Underground (can only move left and right to navigate the buttons)
+Mad Memory
+Mafia
+Mahjong (buttons are ordered incorrectly and can highlight buttons that shouldn't be selected)
+Maintenance (can only move left and right to navigate the buttons)
+Manometers (can only move up and down to navigate the buttons)
+Marble Tumble
+Maritime Flags
+Mashematics
+Mastermind Cruel
+Mastermind Simple
+Maze Scrambler (can only move left and right to navigate the buttons)
+Mega Man 2 (can only move left and right to navigate the grid)
+Melody Sequencer (buttons are ordered incorrectly and can only move left and right)
+Micro-Modules (can only move up and down when selecting a module, can only move left and right when in Directional Keypads, Math Code and Code Morse, and Script Wires selectables are backwards)
+Microcontroller
+Mineseeker
+Minesweeper
+Modern Cipher
+Module Homework (must move down to select the pencil)
+Module Maze
+Modules Against Humanity
+Modulo (can only move left and right to navigate the buttons)
+Monsplode Fight!
+Monsplode Trading Cards
+The Moon (can only move left and right to navigate the buttons)
+Morse-A-Maze (can only move left and right to navigate the buttons)
+Morse War (buttons are ordered backwards)
+Morsematics
+Mortal Kombat (can only move left and right to navigate the buttons)
+Mouse in the Maze
+Murder
+Mystic Square
+Neutralization
+Nongram
+The Number
+The Number Cipher (can only move left and right to navigate the buttons)
+Number Nimbleness (can press buttons that shouldn't be selected yet and can only move left and right)
+Number Pad
+Numbers (can only move left and right to navigate the buttons)
+Only Connect
+Orientation Cube (must move down instead of up to reach the set button)
+Painting
+Party Time
+Passport Control (buttons are ordered backwards)
+Pattern Cube
+Periodic Table (can only move left and right to navigate the buttons which makes pressing a specific button annoying)
+Perplexing Wires
+Perspective Pegs
+Piano Keys
+Pie (can only move up and down instead of left and right to navigate the buttons)
+Pigpen Rotations (can only move left and right to navigate the buttons)
+Playfair Cipher (buttons are ordered incorrectly)
+Plumbing
+The Plunger Button
+Poetry
+Point of Order
+Poker (can only move left and right to navigate the buttons)
+Polyhedral Maze (can press buttons that shouldn't be selected yet, but the buttons don't work until the module needs them)
+Press X (buttons are ordered incorrectly)
+Probing
+Purgatory
+Question Mark
+Quintuples (can only move left and right to navigate the buttons)
+Quiz Buzz
+Radiator
+The Radio (can only move up and down to navigate the buttons)
+Regular Crazy Talk
+Resistors
+Retirement
+Reverse Morse (can only move left and right to navigate the buttons)
+Rhythms
+Rock-Paper-Scissors-Lizard-Spock
+Round Keypad
+Rubik's Clock
+Rubik's Cube
+Safety Safe
+Schlag den Bomb
+The Screw
+Scripting
+Sea Shells
+Semaphore
+S.E.T.
+Shape Shift
+Shapes And Bombs (the side buttons are ordered incorrectly)
+Shikaku (can only move left and right to navigate the buttons)
+Signals (can only move left and right to navigate the buttons)
+Silly Slots
+Simon Samples (buttons are ordered incorrectly)
+Simon Scrambles (can only move left and right to navigate the buttons)
+Simon Screams
+Simon Sends
+Simon Shrieks (buttons are ordered incorrectly)
+Simon Sings
+Simon Sounds (can only move left and right to navigate the buttons)
+Simon Speaks
+Simon Spins
+Simon States
+Simon's Stages (can only move left and right to navigate the buttons)
+Simon's Star (can only move left and right to navigate the buttons)
+Sink
+Skewed Slots
+Skinny Wires (can highlight wires that are not present on the module and can only move left and right)
+Skyrim (can only move left and right to navigate the buttons)
+Snooker (can only move left and right to navigate the buttons)
+Sonic & Knuckles (can press buttons that shouldn't be selected yet and can only move left and right)
+Sonic the Hedgehog (can only move left and right to navigate the buttons and the screens are ordered incorrectly)
+Souvenir (can press buttons that shouldn't be an option)
+The Sphere
+Spinning Buttons
+Splitting the Loot
+Square Button
+The Stare
+The Stock Market (can only move left and right to navigate the buttons)
+The Stopwatch
+Street Fighter (can only move left and right to navigate the buttons)
+Subscribe to Pewdiepie (can only move left and right to navigate the buttons)
+Sueet Wall
+The Sun (can only move left and right to navigate the buttons)
+Superlogic
+The Swan (can only move left and right to navigate the buttons)
+The Switch
+Switches
+Symbol Cycle
+Symbolic Coordinates (can only move left and right to navigate the buttons)
+Symbolic Password
+SYNC-125 [3] (can only move left and right to navigate the buttons)
+Synchronization
+Synonyms
+T-Words (can only move left and right to navigate the buttons)
+Tangrams
+Tap Code
+Tasha Squeals (can only move left and right to navigate the buttons)
+Tax Returns (can press buttons that shouldn't be pressed yet and can only move left and right)
+Ten-Button Color Code
+Tennis (buttons are ordered incorrectly)
+Text Field
+Third Base
+Tic-Tac-Toe
+The Time Keeper (can only move left and right to navigate the LEDs)
+Timing Is Everything
+The Triangle (can only move left and right to navigate the triangles)
+Turn the Key
+Turn the Keys
+Turtle Robot (can only move up and down to navigate the buttons)
+Two Bits
+Uncolored Squares
+Unfair Cipher (can only move left and right to navigate the buttons)
+Unrelated Anagrams (can only move left and right to navigate the buttons)
+USA Maze (can highlight a button that is above the 8 buttons, it doesn't seem to do anything though)
+Valves
+Varicolored Squares
+Visual Impairment
+Waste Management
+Wavetapping
+Web Design
+Westeros (can only move left and right to navigate the buttons)
+The Wire (can rotate dials and cut the wire when they are not present and can only move left and right)
+Wire Spaghetti (can cut wires that are not present on the module and can only move left and right)
+Word Scramble
+Word Search
+X01
+X-Ray
+Yahtzee (can keep dice before the first roll, this can make any kept dice invisible until you un-keep them)
+Zoni
+Zoo (can highlight buttons that shouldn't be pressed yet)
+
+-----
+
+Incompatible:
+Challenge & Contact (can highlight buttons that shouldn't be pressed yet, can only move left and right to navigate the buttons and the buttons are ordered in a way that makes gameplay almost impossible)
+The Crystal Maze (buttons are ordered incorrectly, can only move left and right and if you're on the start screen and move right past the center button you'll get stuck and won't be able to press any room buttons)
+Error Codes (once the send button is selected it can't be deselected)
+LEGO (some movement makes all buttons no longer selectable and makes it impossible for the module to deselect)
+Subways (can highlight (possibly actually press) buttons that are not present on the module and can only move left and right to navigate the buttons, and this actually makes it impossible to move back after moving right a certain amount of times)
+Timezone (can only move up and down to navigate the buttons, and once you reach the submit button you cannot move back)
+Wire Placement (certain wire spawns can make it impossible to move to a certain wire (see "WirePlacement.png" for an example)
