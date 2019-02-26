@@ -1,4 +1,7 @@
-Compatible:
+The parentheses next to a module name are all the bugs that were found for that module.
+
+COMPATIBLE MODULES:
+
 3D Maze
 3D Tunnels
 101 Dalmatians
@@ -312,7 +315,7 @@ Two Bits
 Uncolored Squares
 Unfair Cipher (can only move left and right to navigate the buttons)
 Unrelated Anagrams (can only move left and right to navigate the buttons)
-USA Maze (can highlight a button that is above the 8 buttons, it doesn't seem to do anything though)
+USA Maze (can highlight a reset button when it isn't visible)
 Valves
 Varicolored Squares
 Visual Impairment
@@ -330,9 +333,8 @@ Yahtzee (can keep dice before the first roll, this can make any kept dice invisi
 Zoni
 Zoo (can highlight buttons that shouldn't be pressed yet)
 
------
+INCOMPATIBLE MODULES:
 
-Incompatible:
 Challenge & Contact (can highlight buttons that shouldn't be pressed yet, can only move left and right to navigate the buttons and the buttons are ordered in a way that makes gameplay almost impossible)
 The Crystal Maze (buttons are ordered incorrectly, can only move left and right and if you're on the start screen and move right past the center button you'll get stuck and won't be able to press any room buttons)
 Error Codes (once the send button is selected it can't be deselected)
