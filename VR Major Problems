@@ -3,6 +3,8 @@ If a mod has compatibility problems that are minor or don't affect gameplay, it 
 
 UpdateChildren() seems to possible cause to unplayability for modules that become unsolvable.
 
+MODULES:
+
 Creation (Second stage buttons are unable to be selected by motion controls)
 Elder Futhark (Cannot begin module do to the runes not showing till the module is selected. Motion controls in VR cannot complete this action)
 Hogwarts (Unable to submit a final house winner after solving the required modules due to not being able to select final house buttons after the screen switches)
@@ -13,12 +15,17 @@ Mod Selector (unable to select options from menus beyond the first options (Can'
 The Moon/The Sun (Unable to select buttons except center button)
 Only Connect (Second stage buttons are unable to be selected by motion controls)
 Plumbing (Pipes Disappearing after being pressed with motion controls (See Plumbing.mp4))
-The Reasonable Conclusion (Cases has no collision mesh)
 Retirement (Unable to press arrow buttons to cycle housing options)
 Souvenir (Answers are unselectable when questions are shown)
 Wire Spaghetti (Unable to select any wires to be cut. Possibly too thin of colliders?)
 X01 (Unable to select spaces on the dart board)
 
+CASINGS:
+
+The Centurion (falls through the desk)
+The Double Decker (depending on module spawns it falls through the desk)
+Quadruple Decker Bomb (depending on module spawns it falls through the desk)
+The Reasonable Conlusion Casing (most cases fall through the desk)
 
 All Needies Below are the only needies that have Major issues. If it is not listed here or in Minor Problems, It can be safely assumed that it has worked in testing.
 
