@@ -338,8 +338,8 @@ COMPATIBLE CASINGS:
 1x1 Casing
 Bomb Defusing 101 (movement is complicated due to the selectables not being ordered correctly)
 The Centurion (movement is complicated due to the selectables not being ordered correctly)
-Double-Decker Casing
-Quadruple-Decker Casing
+The Double Decker
+Quadruple Decker Bomb
 The Reasonable Conclusion Casing (movement is complicated due to the selectables not being ordered correctly)
 Triangular Casing (movement is complicated due to the selectables not being ordered correctly)
 
