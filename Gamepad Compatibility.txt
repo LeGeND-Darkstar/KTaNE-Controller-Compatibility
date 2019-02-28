@@ -1,4 +1,4 @@
-The parentheses next to a module name are all the bugs that were found for that module.
+The parentheses next to a mod name are all the bugs that were found for that mod.
 
 COMPATIBLE MODULES:
 
@@ -332,6 +332,15 @@ X-Ray
 Yahtzee (can keep dice before the first roll, this can make any kept dice invisible until you un-keep them)
 Zoni
 Zoo (can highlight buttons that shouldn't be pressed yet)
+
+COMPATIBLE CASINGS:
+
+1x1 Casing
+Bomb Defusing 101 (movement is complicated due to the selectables not being ordered correctly)
+The Centurion (movement is complicated due to the selectables not being ordered correctly)
+Double-Decker Casing
+Quadruple-Decker Casing
+The Reasonable Conclusion Casing (movement is complicated due to the selectables not being ordered correctly)
 
 INCOMPATIBLE MODULES:
 
