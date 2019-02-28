@@ -341,6 +341,7 @@ The Centurion (movement is complicated due to the selectables not being ordered 
 Double-Decker Casing
 Quadruple-Decker Casing
 The Reasonable Conclusion Casing (movement is complicated due to the selectables not being ordered correctly)
+Triangular Casing (movement is complicated due to the selectables not being ordered correctly)
 
 INCOMPATIBLE MODULES:
 
