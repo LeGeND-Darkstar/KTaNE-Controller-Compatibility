@@ -5,18 +5,15 @@ UpdateChildren() seems to possible cause to unplayability for modules that becom
 
 MODULES:
 
-Creation (Second stage buttons are unable to be selected by motion controls)
 Elder Futhark (Cannot begin module do to the runes not showing till the module is selected. Motion controls in VR cannot complete this action)
 Hogwarts (Unable to submit a final house winner after solving the required modules due to not being able to select final house buttons after the screen switches)
 Jack-o-Lantern (Unable to press buttons with motion controls. from beginning of module. Unknown Cause)
 Jewel Vault (Light Flickers extremely fast when held at certain angles, Unable to select wheels with motion controls)
-Minesweeper (Unable to press squares due to plane colliders)
-Mod Selector (unable to select options from menus beyond the first options (Can't change active profiles, can't navigate to edit profiles, etc.)
+Mod Selector (Menu items are very difficult to select)
 The Moon/The Sun (Unable to select buttons except center button)
 Only Connect (Second stage buttons are unable to be selected by motion controls)
 Plumbing (Pipes Disappearing after being pressed with motion controls (See Plumbing.mp4))
 Retirement (Unable to press arrow buttons to cycle housing options)
-Souvenir (Answers are unselectable when questions are shown)
 Wire Spaghetti (Unable to select any wires to be cut. Possibly too thin of colliders?)
 X01 (Unable to select spaces on the dart board)
 
